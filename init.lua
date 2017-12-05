@@ -8,19 +8,19 @@ local mese_list = {
 	"mesecons_commandblock:commandblock_off",
 	"mesecons_blinkyplant:blinky_plant_off",
 	"mesecons_detector:object_detector_off",
+	"mesecons_detector:node_detector_off",
 	"mesecons_luacontroller:luacontroller0000",
 	"mesecons_microcontroller:microcontroller0000",
 	"mesecons_pistons:piston_sticky_off",
-	"mesecons_pistons:piston_up_sticky_off",
-	"mesecons_pistons:piston_down_sticky_off",
 	"mesecons_pistons:piston_normal_off",
-	"mesecons_pistons:piston_up_normal_off",
-	"mesecons_pistons:piston_down_normal_off",
 	"mesecons_delayer:delayer_off_1",
 	"mesecons_noteblock:noteblock",
 	"mesecons_hydroturbine:hydro_turbine_off",
 	"mesecons_movestones:movestone",
 	"mesecons_movestones:sticky_movestone",
+	"mesecons_movestones:movestone_vertical",
+	"mesecons_movestones:sticky_movestone_vertical",
+	"mesecons_fpga:fpga0000",
 }
 
 for mesecount = 1, #mese_list do
