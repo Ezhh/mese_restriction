@@ -5,12 +5,8 @@ mesecons_detector
 mesecons_luacontroller
 mesecons_microcontroller
 mesecons_pistons
-mesecons_pistons
-mesecons_pistons
-mesecons_pistons
-mesecons_pistons
-mesecons_pistons
 mesecons_delayer
 mesecons_noteblock
 mesecons_hydroturbine
 mesecons_movestones
+mesecons_gates

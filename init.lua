@@ -21,6 +21,13 @@ local mese_list = {
 	"mesecons_movestones:movestone_vertical",
 	"mesecons_movestones:sticky_movestone_vertical",
 	"mesecons_fpga:fpga0000",
+	"mesecons_gates:and_off",
+	"mesecons_gates:diode_off",
+	"mesecons_gates:nand_off",
+	"mesecons_gates:nor_off",
+	"mesecons_gates:not_off",
+	"mesecons_gates:or_off",
+	"mesecons_gates:xor_off",
 }
 
 for mesecount = 1, #mese_list do
